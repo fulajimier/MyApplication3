@@ -1,0 +1,474 @@
+[
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_offline_localmap_list.xml.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\layout\\offline_localmap_list.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_mapcontrol.xml.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\layout\\activity_mapcontrol.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\LinW\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\5154593749a97d672c14a1ff3a4ea624\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_favorite_infowindow.xml.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\layout\\activity_favorite_infowindow.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_button_style.xml.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\drawable-hdpi\\button_style.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_indoor.xml.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\layout\\activity_indoor.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg_edittext.xml.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\drawable-hdpi\\bg_edittext.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_gcoding.png.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\drawable-hdpi\\icon_gcoding.png"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_markd.png.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\drawable-hdpi\\icon_markd.png"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_radarlist.xml.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\layout\\activity_radarlist.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\LinW\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\eabee8107972c35133247e106607b494\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_offline.xml.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\layout\\activity_offline.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_share_demo_activity.xml.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\layout\\activity_share_demo_activity.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_markf.png.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\drawable-hdpi\\icon_markf.png"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_share_demo.xml.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\layout\\activity_share_demo.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_heatmap.xml.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\layout\\activity_heatmap.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_edit_cursor.xml.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\drawable-hdpi\\edit_cursor.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\LinW\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\5154593749a97d672c14a1ff3a4ea624\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\LinW\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\5154593749a97d672c14a1ff3a4ea624\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_favorite.xml.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\layout\\activity_favorite.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_markc.png.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\drawable-hdpi\\icon_markc.png"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_tile_overlay_demo.xml.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\layout\\activity_tile_overlay_demo.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_indoor_search.xml.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\layout\\activity_indoor_search.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\LinW\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\5154593749a97d672c14a1ff3a4ea624\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_geocoder.xml.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\layout\\activity_geocoder.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_popup_middle.png.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\drawable-hdpi\\popup_middle.png"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_opengl.xml.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\layout\\activity_opengl.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_transit_dialog.xml.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\layout\\activity_transit_dialog.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_cloud_search_demo.xml.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\layout\\activity_cloud_search_demo.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\LinW\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\eabee8107972c35133247e106607b494\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_uisetting.xml.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\layout\\activity_uisetting.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_transit_item.xml.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\layout\\activity_transit_item.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_open_baidumap.xml.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\layout\\activity_open_baidumap.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_popup.png.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\drawable-hdpi\\popup.png"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_favorite_alert.xml.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\layout\\activity_favorite_alert.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_multimap.xml.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\layout\\activity_multimap.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_text_bubble.xml.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\layout\\text_bubble.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\LinW\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\5154593749a97d672c14a1ff3a4ea624\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
+        "source": "C:\\Users\\LinW\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\5154593749a97d672c14a1ff3a4ea624\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_markb.png.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\drawable-hdpi\\icon_markb.png"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_busline.xml.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\layout\\activity_busline.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ground_overlay.png.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\drawable-hdpi\\ground_overlay.png"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_radarmap.xml.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\layout\\activity_radarmap.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_custom_text_view.xml.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\layout\\custom_text_view.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_geometry.xml.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\layout\\activity_geometry.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\LinW\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\5154593749a97d672c14a1ff3a4ea624\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\LinW\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\5154593749a97d672c14a1ff3a4ea624\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\LinW\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\5154593749a97d672c14a1ff3a4ea624\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\LinW\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\5154593749a97d672c14a1ff3a4ea624\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_demo_info_item.xml.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\layout\\demo_info_item.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\LinW\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\eabee8107972c35133247e106607b494\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_en.png.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\drawable-hdpi\\icon_en.png"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_popup_left.png.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\drawable-hdpi\\popup_left.png"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\LinW\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\eabee8107972c35133247e106607b494\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_glass.png.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\drawable-hdpi\\glass.png"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_marke.png.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\drawable-hdpi\\icon_marke.png"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_button_on.png.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\drawable-hdpi\\button_on.png"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\LinW\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\eabee8107972c35133247e106607b494\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\LinW\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\5154593749a97d672c14a1ff3a4ea624\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\LinW\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\5154593749a97d672c14a1ff3a4ea624\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_markh.png.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\drawable-hdpi\\icon_markh.png"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\LinW\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\5154593749a97d672c14a1ff3a4ea624\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\LinW\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\5154593749a97d672c14a1ff3a4ea624\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_layers.xml.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\layout\\activity_layers.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_marka.png.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\drawable-hdpi\\icon_marka.png"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pre_down_.png.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\drawable-hdpi\\pre_down_.png"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\LinW\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\5154593749a97d672c14a1ff3a4ea624\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_popup_right.png.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\drawable-hdpi\\popup_right.png"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\LinW\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\5154593749a97d672c14a1ff3a4ea624\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\LinW\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\eabee8107972c35133247e106607b494\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_tile_demo.xml.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\layout\\activity_tile_demo.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_next_.png.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\drawable-hdpi\\next_.png"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\LinW\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\5154593749a97d672c14a1ff3a4ea624\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_arrow.png.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\drawable-hdpi\\arrow.png"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_marki.png.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\drawable-hdpi\\icon_marki.png"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\LinW\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\5154593749a97d672c14a1ff3a4ea624\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_next_down_.png.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\drawable-hdpi\\next_down_.png"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_geo.png.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\drawable-hdpi\\icon_geo.png"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_location.xml.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\layout\\activity_location.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\LinW\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\5154593749a97d672c14a1ff3a4ea624\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_fragment.xml.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\layout\\activity_fragment.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg_edittext_normal.xml.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\drawable-hdpi\\bg_edittext_normal.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg_edittext_focused.xml.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\drawable-hdpi\\bg_edittext_focused.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\LinW\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\eabee8107972c35133247e106607b494\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_routeplan.xml.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\layout\\activity_routeplan.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\raw_locations.json.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\raw\\locations.json"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_st.png.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\drawable-hdpi\\icon_st.png"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\LinW\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\5154593749a97d672c14a1ff3a4ea624\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_overlay.xml.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\layout\\activity_overlay.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\LinW\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\5154593749a97d672c14a1ff3a4ea624\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\LinW\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\eabee8107972c35133247e106607b494\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_markj.png.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\drawable-hdpi\\icon_markj.png"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\LinW\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\5154593749a97d672c14a1ff3a4ea624\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_district_search_demo.xml.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\layout\\activity_district_search_demo.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_texture_map_view_demo.xml.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\layout\\activity_texture_map_view_demo.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_markg.png.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\drawable-hdpi\\icon_markg.png"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_marker_cluster_demo.xml.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\layout\\activity_marker_cluster_demo.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\LinW\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\5154593749a97d672c14a1ff3a4ea624\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\LinW\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\eabee8107972c35133247e106607b494\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\LinW\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\5154593749a97d672c14a1ff3a4ea624\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pre_.png.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\drawable-hdpi\\pre_.png"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_lbssearch.xml.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\layout\\activity_lbssearch.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\LinW\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\5154593749a97d672c14a1ff3a4ea624\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bottom_tab_bg.png.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\drawable-hdpi\\bottom_tab_bg.png"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_popup_down.png.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\drawable-hdpi\\popup_down.png"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_popup_side.png.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\drawable-hdpi\\popup_side.png"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\LinW\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\5154593749a97d672c14a1ff3a4ea624\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\LinW\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\5154593749a97d672c14a1ff3a4ea624\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\LinW\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\5154593749a97d672c14a1ff3a4ea624\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\LinW\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\5154593749a97d672c14a1ff3a4ea624\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_clustering_demo.xml.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\layout\\activity_clustering_demo.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_button_down.png.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\drawable-hdpi\\button_down.png"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\LinW\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\5154593749a97d672c14a1ff3a4ea624\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_poisearch.xml.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\layout\\activity_poisearch.xml"
+    },
+    {
+        "merged": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_radartablayout.xml.flat",
+        "source": "F:\\lirui work\\MyApplication3\\BaiduMapsApiDemo\\res\\layout\\activity_radartablayout.xml"
+    }
+]
